@@ -8,7 +8,7 @@ spring:
         activate:
             on-profile: "dev"
     datasource:
-        url: jdbc:postgresql://localhost:9876/departments-dev
+        url: jdbc:postgresql://localhost:9876/cardapio-dev
         username: postgres
         password: admin
     jpa:
